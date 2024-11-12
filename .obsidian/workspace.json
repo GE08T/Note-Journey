@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Template/Judul.md",
+                "file": "5 - Template/Template Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Judul"
+              "title": "Template Basic"
             }
           }
         ]
@@ -173,10 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b23b3acc277aadb",
+  "active": "97d1da591eb61caa",
   "lastOpenFiles": [
-    "6 - Catatan Utama/Untitled.md",
-    "5 - Template/Judul.md",
+    "1 - Ide dan Habbit/Rencana Membuat Aplikasi.md",
+    "3 - Tag/Habbit.md",
+    "3 - Tag/Software Defelopment.md",
+    "5 - Template/Template Basic.md",
+    "6 - Catatan Utama/Untitled 1.md",
+    "1 - Ide dan Habbit/Untitled 1.md",
     "remote-blog",
     "Welcome.md",
     "Untitled.md",
