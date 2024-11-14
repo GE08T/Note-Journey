@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "784bdc2b28947837",
+        "id": "f4a46d22622a2192",
         "type": "tabs",
         "children": [
           {
-            "id": "7b23b3acc277aadb",
+            "id": "1c228a1cede3bba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Template/Template Basic.md",
+                "file": "1 - Ide dan Habbit/Rencana Membuat Aplikasi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template Basic"
+              "title": "Rencana Membuat Aplikasi"
             }
           }
         ]
@@ -170,15 +170,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "97d1da591eb61caa",
+  "active": "1c228a1cede3bba1",
   "lastOpenFiles": [
-    "1 - Ide dan Habbit/Rencana Membuat Aplikasi.md",
-    "3 - Tag/Habbit.md",
-    "3 - Tag/Software Defelopment.md",
     "5 - Template/Template Basic.md",
+    "6 - Catatan Utama/Al-Mabadi’ Al-‘Asyarah, 10 dasar sebelum ilmu apapun.md",
+    "1 - Ide dan Habbit/Rencana Membuat Aplikasi.md",
+    "3 - Tag/Software Defelopment.md",
+    "3 - Tag/Islam.md",
+    "3 - Tag/Filosofi.md",
+    "3 - Tag/Habbit.md",
     "6 - Catatan Utama/Untitled 1.md",
     "1 - Ide dan Habbit/Untitled 1.md",
     "remote-blog",
