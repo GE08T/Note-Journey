@@ -1,7 +1,7 @@
 
 Tanggal Pembuatan : 13-11-202405:33
 
-Status : unifinish 
+Status : ==Belum Selesai== 
 
 Tag :  [[Software Defelopment]], [[Habbit]], 
 
