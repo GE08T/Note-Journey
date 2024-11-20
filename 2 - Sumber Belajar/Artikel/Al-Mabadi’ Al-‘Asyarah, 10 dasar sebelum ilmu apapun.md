@@ -3,7 +3,7 @@ Tanggal Pembuatan : 14-11-202407:18
 vault backup: {{date}}
 Status :  ==Belum Selesai==
 
-Tag : [[Filosofi]], [[Islam]], [[Habbit]]
+Tag : [[Filosofi]], [[FilosofiIslam]], [[Habbit]]
 
 > Penggagas paham ini adalah Seorang Ulama besar yang bernama Imam Muhammad bin Ali Ash-Shabban (beliau dikenal dengan Abu Irfan Al-Mishri)
 ---
