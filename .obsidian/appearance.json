@@ -1,5 +1,8 @@
 {
   "theme": "obsidian",
   "accentColor": "#363991",
-  "cssTheme": ""
+  "cssTheme": "Atom",
+  "textFontFamily": "Microsoft Sans Serif",
+  "monospaceFontFamily": "Verdana",
+  "interfaceFontFamily": "Inter"
 }
