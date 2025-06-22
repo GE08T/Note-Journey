@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e0a2a7c9010ac8a3",
+        "id": "d660c1916e2139c4",
         "type": "tabs",
         "children": [
           {
-            "id": "c9af439c08ed0dcc",
+            "id": "a957ef80a4b70707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sumber Belajar/Kosa Kata/Kosa Kata Jerman.md",
+                "file": "2 - Sumber Belajar/Bootcamp/Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kosa Kata Jerman"
+              "title": "Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software"
             }
           },
           {
-            "id": "d370b4545134085a",
+            "id": "1e9e67d9dd233ef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Catatan Utama/Beasiswa Djarum.md",
+                "file": "2 - Sumber Belajar/Bootcamp/Part 2 Mengimplementasikan User Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beasiswa Djarum"
-            }
-          },
-          {
-            "id": "6c91cecf86b3fc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tag/English Grammar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "English Grammar"
-            }
-          },
-          {
-            "id": "6e25137af9909dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sumber Belajar/Bootcamp/VSGA/Micro Skill Digital Mindset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Micro Skill Digital Mindset"
+              "title": "Part 2 Mengimplementasikan User Interface"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +190,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b4444eefe36795fc",
+  "active": "1e9e67d9dd233ef8",
   "lastOpenFiles": [
+    "Pasted image 20250622220708.png",
+    "Pasted image 20250622215734.png",
+    "2 - Sumber Belajar/Bootcamp/Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software.md",
+    "2 - Sumber Belajar/Bootcamp/Part 2 Mengimplementasikan User Interface.md",
+    "2 - Sumber Belajar/Bootcamp/Micro Skill Digital Mindset.md",
+    "4 - Indeks/VSGA.md",
+    "6 - Catatan Utama/Web Development.md",
     "2 - Sumber Belajar/Bootcamp/VSGA",
     "6 - Catatan Utama/Untitled.md",
-    "2 - Sumber Belajar/Bootcamp/VSGA/Micro Skill Digital Mindset.md",
     "3 - Tag/English Grammar.md",
     "2 - Sumber Belajar/Buku/Otodidak Belajar English Bab I.md",
     "6 - Catatan Utama/Beasiswa Djarum.md",
@@ -244,17 +222,12 @@
     "3 - Tag/FilosofiModern.md",
     "3 - Tag/Tugas Akhir.md",
     "1 - Ide dan Habbit/Rencana Membuat Aplikasi.md",
-    "3 - Tag/Software Defelopment.md",
-    "3 - Tag/Habbit.md",
-    "1 - Ide dan Habbit/Untitled 1.md",
     "remote-blog",
-    "Welcome.md",
     "6 - Catatan Utama",
     "5 - Template",
     "4 - Indeks",
     "3 - Tag",
     "2 - Sumber Belajar/Makalah",
-    "2 - Sumber Belajar/Buku",
-    "2 - Sumber Belajar/Video"
+    "2 - Sumber Belajar/Buku"
   ]
 }
