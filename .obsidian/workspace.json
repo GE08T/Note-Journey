@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d660c1916e2139c4",
+        "id": "d252de03fe186aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "a957ef80a4b70707",
+            "id": "154a606c9fbd472f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sumber Belajar/Bootcamp/Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software"
-            }
-          },
-          {
-            "id": "1e9e67d9dd233ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sumber Belajar/Bootcamp/Part 2 Mengimplementasikan User Interface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 2 Mengimplementasikan User Interface"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "1e64f95ea55b05b1",
@@ -109,17 +90,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Template/Judul.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Judul"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Template/Judul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Judul"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,7 +122,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,10 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Catatan Utama/Sistem Pendukung Keputusan Metode Fuzzy Sugeno.md"
+                "file": "2 - Sumber Belajar/Bootcamp/Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sistem Pendukung Keputusan Metode Fuzzy Sugeno"
+              "title": "Outline of Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software"
             }
           },
           {
@@ -176,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,44 +174,52 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1e9e67d9dd233ef8",
+  "active": "00cc5dda1e3ef330",
   "lastOpenFiles": [
-    "Pasted image 20250622220708.png",
-    "Pasted image 20250622215734.png",
-    "2 - Sumber Belajar/Bootcamp/Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software.md",
+    "2 - Sumber Belajar/Bootcamp/Part 7 Mengenal Library.md",
+    "2 - Sumber Belajar/Bootcamp/Part 6 Membuat program sederhana.md",
+    "2 - Sumber Belajar/Bootcamp/Part 5 Menulis Kode dengan Prinsip Sesuai Guidelines dan Best Practices.md",
+    "2 - Sumber Belajar/Bootcamp/Part 4 Menyusun File, atau Sumber Daya Pemrograman yang Lain dalam  Organisasi yang Rapi.md",
+    "2 - Sumber Belajar/Bootcamp/Part 3 Mengidentifikasi mekanisme running atau eksekusi source code.md",
     "2 - Sumber Belajar/Bootcamp/Part 2 Mengimplementasikan User Interface.md",
+    "2 - Sumber Belajar/Bootcamp/Part 1 Pembukaan dan Penjelasan Rencana Pembelajaran Instalasi Software.md",
+    "7 - Image/Pasted image 20250623203124.png",
+    "7 - Image/Pasted image 20250623211001.png",
+    "7 - Image/Pasted image 20250623210318.png",
+    "7 - Image/Pasted image 20250623210311.png",
+    "7 - Image/Pasted image 20250623210233.png",
+    "7 - Image/Pasted image 20250623210209.png",
+    "7 - Image/Pasted image 20250623210129.png",
+    "7 - Image/Pasted image 20250623210053.png",
+    "7 - Image/Pasted image 20250623210017.png",
+    "7 - Image/Pasted image 20250623203558.png",
+    "3 - Tag/Web Development.md",
+    "2 - Sumber Belajar/Kosa Kata/Kosa Kata Jerman.md",
+    "6 - Catatan Utama/Catatan Tentang Aplikasi Katalis JTI.md",
+    "6 - Catatan Utama/Pendahuluan Filsafat Modern Barat.md",
+    "6 - Catatan Utama/Sistem Pendukung Keputusan Metode Fuzzy Sugeno.md",
+    "3 - Tag/VSGA.md",
+    "4 - Indeks/LEARN ENGLISH.md",
+    "6 - Catatan Utama/some page.md",
+    "1 - Ide dan Habbit/Rencana Membuat Aplikasi.md",
+    "7 - Image",
     "2 - Sumber Belajar/Bootcamp/Micro Skill Digital Mindset.md",
-    "4 - Indeks/VSGA.md",
-    "6 - Catatan Utama/Web Development.md",
     "2 - Sumber Belajar/Bootcamp/VSGA",
-    "6 - Catatan Utama/Untitled.md",
     "3 - Tag/English Grammar.md",
     "2 - Sumber Belajar/Buku/Otodidak Belajar English Bab I.md",
     "6 - Catatan Utama/Beasiswa Djarum.md",
-    "2 - Sumber Belajar/Kosa Kata/Kosa Kata Jerman.md",
-    "6 - Catatan Utama/Pendahuluan Filsafat Modern Barat.md",
     "3 - Tag/PemikiranBarat.md",
     "2 - Sumber Belajar/Kosa Kata",
     "2 - Sumber Belajar/Untitled.md",
-    "4 - Indeks/LEARN ENGLISH.md",
     "3 - Tag/English.md",
-    "6 - Catatan Utama/Catatan Tentang Aplikasi Katalis JTI.md",
-    "6 - Catatan Utama/Sistem Pendukung Keputusan Metode Fuzzy Sugeno.md",
     "some page.md",
     "3 - Tag/Filosofi.md",
-    "5 - Template/Template Basic.md",
     "2 - Sumber Belajar/Jurnal",
-    "2 - Sumber Belajar/Artikel/Al-Mabadi’ Al-‘Asyarah, 10 dasar sebelum ilmu apapun.md",
-    "3 - Tag/FilosofiIslam.md",
-    "3 - Tag/FilosofiModern.md",
-    "3 - Tag/Tugas Akhir.md",
-    "1 - Ide dan Habbit/Rencana Membuat Aplikasi.md",
     "remote-blog",
     "6 - Catatan Utama",
     "5 - Template",
     "4 - Indeks",
     "3 - Tag",
-    "2 - Sumber Belajar/Makalah",
-    "2 - Sumber Belajar/Buku"
+    "2 - Sumber Belajar/Makalah"
   ]
 }

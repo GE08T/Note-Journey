@@ -1,9 +1,9 @@
 
 Tanggal Pembuatan : 22-06-202521:25
 
-Status : finished
+Status : ~~finished
 
-Tag : [[VSGA]],[[Web Development]]
+Tags : [[VSGA]],[[Web Development]]
 
 
 Dalam membuat suatu program biasa mengikut aturan sebagai berikut  :
@@ -57,5 +57,5 @@ nothing cause i already know it
 5. Kerjasama dalam tim
 
 
-
-
+Referensi 
+[[Part 2 Mengimplementasikan User Interface]]
